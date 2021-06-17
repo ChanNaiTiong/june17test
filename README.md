@@ -2,4 +2,4 @@
 
 ## Sub-title
 
-This is a test repositories.
+This is a test repository.
